@@ -4,7 +4,7 @@ Created on Thu Feb  1 08:41:15 2024
 
 @author: mumble
 
-random 12string generator
+random 12 string generator
 """
 
 import random
